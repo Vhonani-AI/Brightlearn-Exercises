@@ -27,3 +27,12 @@ Skills
 - Conditional logic in SQL
 - Data classification
 - Creating derived columns
+
+**Exercise 4: SQL Joins, UNION, Filtering & Aggregates**
+This exercise focuses on combining data from multiple tables using SQL joins, along with applying filtering, set operations (UNION), and aggregate functions. It demonstrates how to analyze relationships between datasets and generate meaningful insights.
+
+Skills
+- INNER, LEFT, RIGHT, FULL OUTER JOIN
+- UNION & UNION ALL
+- Data filtering (WHERE, IN, conditions)
+- Aggregate functions with GROUP BY & HAVING
