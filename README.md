@@ -1,38 +1,125 @@
-# Brightlearn-Exercises
-SQL Activities
+# 📊 BrightLearn SQL Exercises
 
-**Exercise 1: SQL Fundamentals (SELECT & Filtering)**
-Practice of core SQL querying using SELECT and filtering techniques. Covers retrieving data, applying conditions (WHERE, AND, OR, IN, NOT), sorting results, and limiting output.
+A collection of SQL exercises completed as part of the BrightLearn Data Analytics program.  
+These exercises build a strong foundation in SQL, progressing from basic querying to analytical problem-solving.
 
-Skills
-- SELECT statement
-- Data filtering
-- Logical operators
-- ORDER BY & LIMIT statements
+---
 
-**Exercise 2: Aggregate Functions & Grouping**
-Focus on summarizing data using SQL aggregate functions and grouping. Demonstrates how to analyze data using COUNT, SUM, AVG, and GROUP BY with HAVING.
+## Exercise 1: SQL Fundamentals (SELECT & Filtering)
 
-Skills
-- Aggregate functions
-- GROUP BY statement
-- HAVING statement
-- Basic data analysis
+Practice of core SQL querying using SELECT and filtering techniques.
 
-**Exercise 3: SQL CASE Statements**
-Practice using SQL CASE statements to create conditional logic within queries. Focuses on categorizing and transforming data based on specific conditions.
+**Key Concepts:**
+- Retrieving data from tables
+- Applying conditions using WHERE
+- Logical operators: AND, OR, IN, NOT
+- Sorting and limiting results
 
-Skills
-- CASE statements
-- Conditional logic in SQL
-- Data classification
+**Skills:**
+- Data extraction  
+- Filtering datasets  
+- Query structuring  
+- Basic data exploration  
+
+---
+
+## Exercise 2: Aggregate Functions & Grouping
+
+Focus on summarising and analysing data using aggregate functions.
+
+**Key Concepts:**
+- SUM(), COUNT(), AVG()
+- GROUP BY
+- HAVING for filtering aggregated data
+
+**Skills:**
+- Data aggregation  
+- Group-based analysis  
+- Identifying trends and totals  
+
+---
+
+## Exercise 3: SQL CASE Statements
+
+Practice applying conditional logic to transform and categorise data.
+
+**Key Concepts:**
+- CASE WHEN logic
 - Creating derived columns
+- Business rule implementation
 
-**Exercise 4: SQL Joins, UNION, Filtering & Aggregates**
-This exercise focuses on combining data from multiple tables using SQL joins, along with applying filtering, set operations (UNION), and aggregate functions. It demonstrates how to analyze relationships between datasets and generate meaningful insights.
+**Skills:**
+- Data classification  
+- Conditional transformations  
+- Creating meaningful categories  
 
-Skills
-- INNER, LEFT, RIGHT, FULL OUTER JOIN
-- UNION & UNION ALL
-- Data filtering (WHERE, IN, conditions)
-- Aggregate functions with GROUP BY & HAVING
+---
+
+## Exercise 4: Joins, UNION, Filtering & Aggregates
+
+Combining data from multiple tables and analysing relationships.
+
+**Key Concepts:**
+- INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN
+- UNION vs UNION ALL
+- Filtering combined datasets
+- Aggregation across joined tables
+
+**Skills:**
+- Data integration  
+- Understanding table relationships  
+- Multi-table analysis  
+
+---
+
+## Exercise 5: NULL Functions
+
+Handling missing or incomplete data.
+
+**Key Concepts:**
+- IS NULL / IS NOT NULL
+- COALESCE() / IFNULL()
+
+**Skills:**
+- Data cleaning  
+- Handling missing values  
+- Improving data quality  
+
+---
+
+## Exercise 6: Date Functions
+
+Working with and analysing time-based data.
+
+**Key Concepts:**
+- YEAR(), MONTH(), DAY()
+- DAYNAME(), MONTHNAME()
+- DATEADD(), DATEDIFF()
+- CURRENT_DATE(), CURRENT_TIMESTAMP()
+
+**Skills:**
+- Time-based analysis  
+- Date calculations  
+- Formatting and extracting date components  
+
+---
+
+## Exercise 7: BigQuery Exercise
+
+Applying SQL concepts in a real-world cloud environment.
+
+**Key Concepts:**
+- BigQuery syntax
+- Querying structured datasets
+- Applying filters, aggregations, and logic
+
+**Skills:**
+- Writing production-style SQL  
+- Working with large datasets  
+- Cloud-based querying  
+
+---
+
+## 🚀 Learning Progress
+
+This repository reflects my progression from basic SQL querying to more advanced analytical techniques, including data transformation, aggregation, and time-based analysis.
