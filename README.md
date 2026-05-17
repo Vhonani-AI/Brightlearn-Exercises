@@ -163,7 +163,7 @@ This assignment focused on building a strong understanding of core data, analyti
 ## Portfolio Exercise
 
 Description: This section will contain details about the Portfolio Exercise.
-
+Loveable: https://vhonanimphoshomale.lovable.app/
 
 ---
 
