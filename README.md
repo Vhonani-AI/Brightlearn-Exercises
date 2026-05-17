@@ -160,6 +160,12 @@ This assignment focused on building a strong understanding of core data, analyti
 - Explaining complex topics in a simple and structured way  
 
 ---
+## Portfolio Exercise
+
+Description: This section will contain details about the Portfolio Exercise.
+
+
+---
 
 ## Learning Progress
 
